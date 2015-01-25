@@ -8,7 +8,7 @@ if (!file.exists("project")) {
     dir.create("project")
 }
 
-#download the data for course project
+#download the raw data for course project
 fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(fileUrl, destfile="./project/uci.zip")
 
