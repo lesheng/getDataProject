@@ -1,4 +1,4 @@
-## getDataProject is a repo for a course project of "Getting and Cleanning Data"
+## getDataProject is a repo for the course project of "Getting and Cleanning Data"
 ###There are 4 files in this repo:
 1. README.md: this file to explain basic information for this repo.
 2. run_analsysis.R: The R script to download the raw data and processes to a tidy data by the following steps:
